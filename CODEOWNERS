@@ -1,0 +1,3 @@
+# Mimics customer-engagements: only scaffold paths have an owner, NO catch-all.
+/_template/    @ltnuke
+/CODEOWNERS    @ltnuke
